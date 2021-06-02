@@ -1,0 +1,107 @@
+euphemism,taboo,source,topic
+a certain age,old,\cite{OED},age
+aboriginal,native,\cite{Yandell_2015},race
+african american,black person,\cite{Martin_1991},race
+armed conflict,war,--,politics
+big-boned,fat,\cite{OED},health
+bosom,breast,\cite{Rawson_1981},body part
+bum,tramp,--,poverty
+bust,breast,\cite{Rawson_1981},body part
+cannabis,marijuana,\cite{Woelfel_2019},drugs
+capital punishment,death penalty,\cite{Rawson_1981},politics
+chest,breast,\cite{Rawson_1981},body part
+climate change,global warming,\cite{Sagi_Gann_Matlock_2015},politics
+collateral damage,civilian casualties,\cite{Rawson_1981},politics
+cultural cleansing,genocide,\cite{OED},misc taboo
+custodian,janitor,\cite{Rawson_1981},misc taboo
+deprived,poor,\cite{Rawson_1981},poverty
+detainee,prisoner,\cite{Rawson_1981},politics
+detention camp,prison,\cite{Rawson_1981},politics
+developed country,first world country,\cite{Silver_2015},politics
+developing,underdeveloped,\cite{Rawson_1981},poverty
+developing country,third world country,\cite{Silver_2015},politics
+developmentally disabled,retarded,--,health
+disabled,crippled,\cite{O'Conner_Kellerman_2012},health
+disabled,handicapped,\cite{O'Conner_Kellerman_2012},health
+disadvantaged,poor,\cite{Rawson_1981},poverty
+drinking problem,alcoholism,--,health
+enhanced interrogation technique,torture,--,politics
+ethnic cleansing,genocide,--,politics
+exterminate,murder,--,misc taboo
+family jewel,testicle,\cite{OED},body part
+fatality,death,--,death
+first nation,indian band,--,race
+first nations,aboriginal,--,race
+first nations,native,--,race
+freedom fighter,rebel,--,politics
+gay,homosexual,\cite{Rawson_1981},sexuality
+gay,queer,\cite{Rawson_1981},sexuality
+global south,third world,\cite{Silver_2015},politics
+go to a better place,die,\cite{OED},death
+handicapped,crippled,\cite{O'Conner_Kellerman_2012},health
+hobo,bum,--,poverty
+homeless,hobo,--,poverty
+homemaker,housewife,\cite{Rawson_1981},gender
+illegal immigrant,illegal alien,\cite{Nowrasteh_2017},politics
+in a delicate condition,pregnant,\cite{Rawson_1981},health
+in the family way,pregnant,\cite{Rawson_1981},health
+income inequality,poverty,--,poverty
+indigenous,aboriginal,--,race
+indigenous,native,\cite{Yandell_2015},race
+indigent,poor,\cite{Rawson_1981},poverty
+inebriated,drunk,\cite{Rawson_1981},health
+inner city,ghetto,--,race
+insane,crazy,\cite{Rawson_1981},health
+intoxicated,drunk,\cite{Rawson_1981},health
+invalid,cripple,--,health
+lady,woman,Lakoff, \cite{Rawson_1981},gender
+latino,hispanic,\cite{Hayes-Bautista_Chapa_1987},race
+latrine,toilet,\cite{Rawson_1981},bodily function
+lavatory,toilet,\cite{Rawson_1981},bodily function
+little boy 's room,bathroom,\cite{OED},bodily function
+little girl 's room,bathroom,\cite{OED},bodily function
+long sleep,death,--,death
+low-income,poor,\cite{Rawson_1981},poverty
+lunatic,insane,\cite{Rawson_1981},health
+mental illness,insanity,\cite{Rawson_1981},health
+mentally deranged,lunatic,\cite{Rawson_1981},health
+mentally disabled,retarded,--,health
+mentally handicapped,retarded,--,health
+mentally ill,insane,\cite{Rawson_1981},health
+mistruth,lie,--,politics
+nerve doctor,psychiatrist,\cite{OED},health
+neutralize,kill,\cite{OED},misc taboo
+n-word,nigger,\cite{OED},race
+oldest profession,prostitution,\cite{OED},misc taboo
+overweight,fat,--,health
+overweight,obese,\cite{Collier_2010},health
+pass away,die,\cite{Rawson_1981},death
+perish,die,--,death
+physically challenged,disabled,--,health
+plump,overweight,\cite{Rawson_1981},health
+plump,fat,\cite{Rawson_1981},health
+plus-sized,fat,--,health
+portly,fat,\cite{Rawson_1981},health
+problem drinker,alcoholic,--,health
+pro-life,anti-abortion,--,health
+psychiatric hospital,insane asylum,--,health
+put to sleep,kill,\cite{Rawson_1981},murder
+regime change,coup,\cite{OED},politics
+same-sex,gay,--,sexuality
+sex worker,prostitute,\cite{OED},misc taboo
+sexual assault,rape,\cite{Rawson_1981},misc taboo
+sexually transmitted infection,sexually transmitted disease,--,health
+special needs,retarded,--,health
+stout,fat,\cite{OED},health
+street person,homeless person,--,poverty
+targeted killing,assassination,--,murder
+terminate with extreme prejudice,assassinate,\cite{OED} \cite{Rawson_1981},murder
+terminological inexactitude,lie,\cite{OED},politics
+the clap,gonorrhea,--,health
+tramp,vagrant,\cite{Rawson_1981},poverty
+underdeveloped,primitive,\cite{Rawson_1981},poverty
+underpriviledged,poor,\cite{Rawson_1981},poverty
+undocumented immigrant,illegal alien,\cite{Nowrasteh_2017},politics
+venereal disease,syphilis,--,health
+water closet,toilet,\cite{OED},bodily function
+weed,marijuana,\cite{Woelfel_2019},drugs
