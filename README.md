@@ -14,6 +14,7 @@ In the csv, the euphemism is in the ``euphemism`` column, their corresponding ta
 * Martin, B. L. (1991). From Negro to Black to African American: The Power of Names and Naming. Political Science Quarterly, 106(1), 83–107. JSTOR. https://doi.org/10.2307/2152175
 * Nowrasteh, A. (2017, December 7). The Use of Euphemisms in Political Debate. Cato Institute. https://www.cato.org/blog/use-euphemisms-political-debate
 * O’Conner, P. T., & Kellerman, S. (2012, July 31). Crippled, handicapped, disabled? Grammarphobia. https://www.grammarphobia.com/blog/2012/07/crippled-handicapped-disabled.html
+* OED. 1989. OED Online. http://www.oed.com/. Accessed: 2020-04-06.
 * Rawson, H. (1981). A dictionary of euphemisms & other doubletalk (1st ed.). Crown Publishers, Inc.
 * Sagi, E., Gann, T. M., & Matlock, T. (2015). The Moral Rhetoric of Climate Change. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), Proceedings of the 37th Annual Conference of the Cognitive Science Society (pp. 2063–2068).
 * Silver, M. (2015, January 4). If You Shouldn’t Call It The Third World, What Should You Call It? Goats and Soda: Stories of Life in a Changing World. https://www.npr.org/sections/goatsandsoda/2015/01/04/372684438/if-you-shouldnt-call-it-the-third-world-what-should-you-call-it
